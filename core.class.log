@@ -1,0 +1,410 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: '1F0648AA968A0E599072FCC65671F3EC',
+    participant: undefined
+  },
+  messageTimestamp: 1709679410,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '593939776717'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d212c70-1a9e-426b-98ba-92b9befcb041',
+  keyword: 'key_9a745b03-5cc5-4b96-9388-4fde0537525b',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6bdd7109f94a46664f0c033734203503'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a67c6de-4c72-4d7d-844a-8aa7b1be4130',
+  keyword: 'ans_1d212c70-1a9e-426b-98ba-92b9befcb041',
+  answer: 'te comparto los siguientes links de interes sobre cosas interesantes\n' +
+    '👉 *Kerolay Chaves*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5011f1b733491a6bcc1bf82318ad7b39'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: 'E9E2FF80D668B1765F1EB4D8ACE17D4F',
+    participant: undefined
+  },
+  messageTimestamp: 1709679450,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Kerolay Chaves',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Kerolay Chaves',
+  from: '593939776717'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c9dd84a-0f0a-4206-91fe-36b8ea9e614f',
+  answer: 'Este mensaje envia una imagen',
+  keyword: 'key_d392eb5d-97fd-4e73-9936-d3a4439358bb',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: 'https://s40.erome.com/1359/e9O7SHex/yEjmvkwr.jpeg?v=1702853667',
+    nested: [],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fef79f1af1a21fd992ea3c210441e0d6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: 'C44BA68E674A0CC6F03854AA8EE258F2',
+    participant: undefined
+  },
+  messageTimestamp: 1709679462,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    conversation: '😂😂😂 de locos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '😂😂😂 de locos',
+  from: '593939776717'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: '2DF52C595FCDB36BF2D32A046D76A917',
+    participant: undefined
+  },
+  messageTimestamp: 1709679464,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573016824532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d212c70-1a9e-426b-98ba-92b9befcb041',
+  keyword: 'key_9a745b03-5cc5-4b96-9388-4fde0537525b',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6bdd7109f94a46664f0c033734203503'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9a67c6de-4c72-4d7d-844a-8aa7b1be4130',
+  keyword: 'ans_1d212c70-1a9e-426b-98ba-92b9befcb041',
+  answer: 'te comparto los siguientes links de interes sobre cosas interesantes\n' +
+    '👉 *Kerolay Chaves*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5011f1b733491a6bcc1bf82318ad7b39'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD48B37FFAA34BF624E4876CE2492410',
+    participant: undefined
+  },
+  messageTimestamp: 1709679468,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chatote',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Chatote',
+  from: '593939776717'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: 'A8BE6CBF98D6B83EF9A479F954AD8CDB',
+    participant: undefined
+  },
+  messageTimestamp: 1709679475,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Con que lo hiciste?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Con que lo hiciste?',
+  from: '593939776717'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: 'F81A7DE611CE47003D44C623E456B5C2',
+    participant: undefined
+  },
+  messageTimestamp: 1709679486,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    conversation: 'Kerolay Chaves',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Kerolay Chaves',
+  from: '573016824532'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1c9dd84a-0f0a-4206-91fe-36b8ea9e614f',
+  answer: 'Este mensaje envia una imagen',
+  keyword: 'key_d392eb5d-97fd-4e73-9936-d3a4439358bb',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: 'https://s40.erome.com/1359/e9O7SHex/yEjmvkwr.jpeg?v=1702853667',
+    nested: [],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fef79f1af1a21fd992ea3c210441e0d6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: '6421984C9A005C2DEE863F25C968E358',
+    participant: undefined
+  },
+  messageTimestamp: 1709679492,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Como que ni',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como que ni',
+  from: '573016824532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: 'DCCFEC0B2734A9735EAA1307CCA78144',
+    participant: undefined
+  },
+  messageTimestamp: 1709679524,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Aaaaah jajjaja',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aaaaah jajjaja',
+  from: '573016824532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: '60922B7CFF7079EDA3AA2FA24DEAB8E9',
+    participant: undefined
+  },
+  messageTimestamp: 1709679622,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ah claro',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ah claro',
+  from: '573016824532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: '2346A2C8E7225B88C7789E2DEA9B321C',
+    participant: undefined
+  },
+  messageTimestamp: 1709679629,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Esta chevere, xq te permite enviar archivos también veo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Esta chevere, xq te permite enviar archivos también veo',
+  from: '593939776717'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: '6BA5744C37E4FA6E0DC4217F909BF313',
+    participant: undefined
+  },
+  messageTimestamp: 1709679636,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ni modo que vas a mostrar viejas encueradas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ni modo que vas a mostrar viejas encueradas',
+  from: '573016824532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573016824532@s.whatsapp.net',
+    fromMe: false,
+    id: '47E353C0BD6117296C6F1661E35F03D7',
+    participant: undefined
+  },
+  messageTimestamp: 1709679642,
+  pushName: 'Camila 💐',
+  broadcast: false,
+  message: Message {
+    conversation: 'O nose si lo aceptan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O nose si lo aceptan',
+  from: '573016824532'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939776717@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC7D0272234F15FFB88942ACC414809B',
+    participant: undefined
+  },
+  messageTimestamp: 1709679645,
+  pushName: 'Juan Saa A.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Después lo estudio esa',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Después lo estudio esa',
+  from: '593939776717'
+}
